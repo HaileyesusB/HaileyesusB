@@ -1,8 +1,11 @@
 
-    👋 Hi, I’m Haileyesus Belew
-    👀 I’m interested in coding backends using nestjs, .net,expressjs, js, C# and frontends using HTML, CSS, Wordpress, bootstrap Angular and React
-    🌱 I also have devOps tech skills
-    💞️ I’m looking to collaborate Software Dev project
-    📫 How to reach me? https://www.linkedin.com/in/haileyesusbelew/
+👋 Hi, I'm Haileyesus Belew
+🚀 Full-Stack Software Engineer | 10+ Years of Experience
 
+🔹 Backend: NestJS, .NET, Express.js, Node.js, C#
+🔹 Frontend: React, Angular, HTML, CSS, Javascript, Bootstrap, WordPress
+🔹 DevOps: CI/CD, Cloud Deployment, Infrastructure Automation
 
+💡 Passionate about building scalable applications and collaborating on exciting software development projects.
+
+📬 Let's connect: on https://www.linkedin.com/in/haileyesusbelew/
